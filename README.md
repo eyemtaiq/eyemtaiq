@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tariq
 - 👀 I’m interested in Cloud Full Stack Developer.
-- 🌱 I’m currently learning Git and Github
+- 🌱 I’m currently learning Git and Github.
 - 💞️ I’m looking to collaborate on Github code lab
 - 📫 You can reach me via email:eyemtarik@gmail.com
 
